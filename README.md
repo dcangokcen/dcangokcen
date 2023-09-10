@@ -46,11 +46,11 @@ I am an Electronics Engineer that works as a Fullstack Software Developer.
 
 ### :fire: My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimetKrgz&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcangokcen&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nimet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimetKrgz&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Nimet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcangokcen&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NimetKrgz&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcangokcen&theme=material-palenight)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=NimetKrgz&label=PROFILE+VIEWS)
 ---
@@ -58,7 +58,7 @@ I am an Electronics Engineer that works as a Fullstack Software Developer.
 <div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div>
 
 <!--
-**NimetKrgz/NimetKrgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dcangokcen/dcangokcen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
