@@ -24,20 +24,21 @@ I am an Electronics Engineer that works as a Fullstack Software Developer.
   <img align="left" alt="css" width="40px" height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />&nbsp;
   <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />&nbsp;
   <img align="left" alt="jupyter" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />&nbsp;
-  <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>&nbsp;
-  <img align="left" alt="mssql" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>&nbsp;
-  <img align="left" alt="sqlite" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>&nbsp;
+  <img align="left" alt="postgresql" width="40px" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>&nbsp;
+  <img align="left" alt="mssql"width="40px" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>&nbsp;
+  <img align="left" alt="sqlite" width="40px" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>&nbsp;
   <img align="left" alt="jira" width="40px" height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />&nbsp;
   <img align="left" alt="github" width="40px" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />&nbsp;
   <!--<img align="left" alt="postman" width="40px" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;
   <img align="left" alt="angular" width="40px" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;
   <img align="left" alt="nodejs" width="40px" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />&nbsp;
-  <img align="left" alt="js" width="40px" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />&nbsp;-->
-
-  <br> <br>
   <img align="left" alt="elastic" width="40px" height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />&nbsp;
   <img align="left" alt="docker" width="40px" height="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" />&nbsp;
   <img align="left" alt="kubernetes" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />&nbsp;
+  <img align="left" alt="js" width="40px" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />&nbsp;-->
+
+  <br> <br>
+  
   
 </div>
 
