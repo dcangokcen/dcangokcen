@@ -52,7 +52,7 @@ I am an Electronics Engineer that works as a Fullstack Software Developer.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcangokcen&theme=material-palenight)](https://git.io/streak-stats)
 
-![](https://vbr.wocr.tk/badge?page_id=8641155)
+![](https://komarev.com/ghpvc/?username=dcangokcen&label=PROFILE+VIEWS&style=plastic&color=orange)
 ---
 
 <div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div>
