@@ -20,10 +20,10 @@ I am an Electronics Engineer that works as a Fullstack Software Developer.
 ### Languages and Tools
 <div></div>
   <img align="left" alt="dotnet" width="40px" height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" />
-  <img align="left" alt="html" width="40px" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />&nbsp;
-  <img align="left" alt="css" width="40px" height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />&nbsp;
-  <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />&nbsp;
-  <img align="left" alt="jupyter" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />&nbsp;
+  <img align="left" alt="html" width="40px" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+  <img align="left" alt="css" width="40px" height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
+  <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+  <img align="left" alt="jupyter" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
   <img align="left" alt="postgresql" width="40px" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>&nbsp;
   <img align="left" alt="mssql"width="40px" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>&nbsp;
   <img align="left" alt="sqlite" width="40px" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>&nbsp;
