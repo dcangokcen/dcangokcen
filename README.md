@@ -12,8 +12,8 @@
 ---
 
 ### 🥳 🌍 About Me 🗺 📚 💻
-I am an Electronics Engineer that works as a Fullstack Software Developer.
-- 🌱 I'm currently working on becoming a senior Data Scientist and a Doctor in program Remote Sensing and Geographic Information Systems.
+I am an Electronics Engineer that works as a Software Engineer.
+- 🌱 I'm currently working on Automotive Electronics company as a Software Engineer.
 - 💬 Ask me about C#, .NET, OOP, MVC, MVVM, SQL, WinForm, WPF, Serial Port Communication, Postgre SQL, MsSQL, GIT, SVN, Jira 
 ---
 
