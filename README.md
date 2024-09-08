@@ -48,7 +48,7 @@ I am an Electronics Engineer that works as a Software Engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcangokcen&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nimet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcangokcen&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Dogus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcangokcen&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcangokcen&theme=material-palenight)](https://git.io/streak-stats)
 
