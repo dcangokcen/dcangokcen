@@ -56,7 +56,7 @@ I am an Electronics Engineer that works as a Software Engineer.
 ---
 
 <!--<div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div>-->
-
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
 <!--
 **dcangokcen/dcangokcen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
