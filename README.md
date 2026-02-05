@@ -29,6 +29,7 @@ I am an Electronics Engineer that works as a Software Engineer.
   <img align="left" alt="sqlite" width="40px" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
   <img align="left" alt="jira" width="40px" height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
   <img align="left" alt="github" width="40px" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+  <img align="left" alt="angular" width="40px" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
   <!--<img align="left" alt="postman" width="40px" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="left" alt="angular" width="40px" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />&nbsp;
   <img align="left" alt="nodejs" width="40px" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />&nbsp;
